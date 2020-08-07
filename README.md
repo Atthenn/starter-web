@@ -6,7 +6,8 @@ some lines
 ## Introduction
 some lines
 ## Purpose
-
+some lines
 Sample website with plenty of files for demos
 ## Deployment
 ## How to contribute
+some lines
